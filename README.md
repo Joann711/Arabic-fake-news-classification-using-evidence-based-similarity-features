@@ -96,18 +96,6 @@ The evidence-based approach showed a slight but consistent improvement over the 
 
 ---
 
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Sentence Transformers
-* AraBERT
-* Matplotlib
-
----
-
 ## Disclaimer
 
 This repository is intended for educational and research purposes only.
